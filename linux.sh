@@ -1,6 +1,5 @@
 #!/bin/bash
-# This script is licensed under the MIT License.
-# See LICENSE.txt for full details.
+# This script is licensed under the MIT License See LICENSE.txt for full details.
 
 
 # Colorful ASCII Art banner for Cyber World
