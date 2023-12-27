@@ -1,6 +1,8 @@
 # Linux_Startup
  Dont know how or where to start on linux ?? Dont worry , i got you
 
+![image](https://github.com/Minamaged18/Linux_Startup/assets/147425861/6280eded-f8b0-4822-be95-e15eed3fbc35)
+
 $$ for any suggest or anything contact : 
 minadontask@gmail.com
 # this is running a Debian-based system 
