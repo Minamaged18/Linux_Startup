@@ -1,0 +1,74 @@
+### Linux Basics:
+- git
+- python
+- pip
+- nmap
+- htop
+- tor
+- vlc
+- default-jre
+
+### Blue Team Tools:
+- nmap
+- golang
+- Masscan
+- Angry IP Scanner (ipscan)
+- ZMap
+- Shodan CLI
+- OpenVAS (Greenbone Vulnerability Management)
+- Nessus Essentials (Tenable Vulnerability Scanner)
+- Java 11
+- Elasticsearch
+- Logstash
+- Kibana
+- yarGen
+- CyberChef
+- sleuthkit
+- radare2
+- wine64
+
+### Red Team Tools:
+- git
+- golang
+- rustc
+- cargo
+- chromium-browser
+- python3
+- python3-pip
+- EyeWitness
+- jsendpoints
+- nuclei
+- gobuster
+- feroxbuster
+- dnsrecon
+- spoofcheck
+- AWSBucketDump
+- truffleHog
+- enum4linux
+- Metabigor
+- Gitrob
+- gowitness
+- metasploit-framework
+- hydra
+- king-phisher
+- Responder
+- Impacket
+- evil-winrm
+- Donut
+- Macro_pack
+- PowerSploit
+- Rubeus
+- SharpUp
+- UltimateAppLockerByPassList
+- StarFighters
+- demiguise
+- PowerZure
+
+### General:
+- wget
+- dpkg
+- apt
+- cmake
+- make
+- gem
+- npm
