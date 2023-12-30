@@ -4,7 +4,7 @@
 ![image](https://github.com/Minamaged18/Linux_Startup/assets/147425861/6280eded-f8b0-4822-be95-e15eed3fbc35)
 
 ## Contact us
-- minadontask@gmail.com
+-Email:minadontask@gmail.com
 ****
 # this is running a Debian-based system 
 # This script is licensed under the MIT License.
