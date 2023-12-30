@@ -3,8 +3,9 @@
 
 ![image](https://github.com/Minamaged18/Linux_Startup/assets/147425861/6280eded-f8b0-4822-be95-e15eed3fbc35)
 
-$$ for any suggest or anything contact : 
-minadontask@gmail.com
+## Contact us
+- minadontask@gmail.com
+****
 # this is running a Debian-based system 
 # This script is licensed under the MIT License.
 # See LICENSE.txt for full details.
@@ -25,7 +26,11 @@ It's good practice to add some error checking for the user input. For example, i
 I've included a wide array of tools for both offensive (Red Team) and defensive (Blue Team) activities, which makes the script comprehensive for its intended purpose.
 
 
-4-Safety and Best Practices:
+4-Safety and Best Practices
+
+
+
+
 
 Running scripts that make system-wide changes can be risky. Always backup your data and ensure you're running scripts from trusted sources.
 It might be beneficial to add some error handling mechanisms, especially around commands that could potentially fail or halt the script.
